@@ -32,7 +32,7 @@ let s:dark02            = { "gui": "#151515", "cterm": "231" }
 let s:dark03            = { "gui": "#2E2E2E", "cterm": "231" }
 let s:dark04            = { "gui": "#5F5F5F", "cterm": "231" }
 let s:dark05            = { "gui": "#222222", "cterm": "231" }
-let s:green            = { "gui": "#2ABD4A", "cterm": "231" }
+let s:cyan            = { "gui": "#8AE1D5", "cterm": "231" }
 let s:yellow            = { "gui": "#FFF148", "cterm": "231" }
 let s:red            = { "gui": "#FF2929", "cterm": "231" }
 
@@ -45,7 +45,7 @@ let s:faint = s:dark03
 let s:extraFaint = s:dark05
 let s:bright = s:white
 let s:comment = s:dark01
-let s:accent = s:green
+let s:accent = s:cyan
 let s:accent2 = s:yellow
 let s:accent3 = s:red
 let s:menuBg = s:dark04
