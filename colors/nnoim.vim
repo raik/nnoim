@@ -24,7 +24,7 @@ endfunction
 
 " Define colors
 let s:black            = { "gui": "#000000", "cterm": "16"  }
-let s:dark            = { "gui": "#181818", "cterm": "16"  }
+let s:dark            = { "gui": "#101010", "cterm": "16"  }
 let s:light            = { "gui": "#B4B4B4", "cterm": "231" }
 let s:white            = { "gui": "#E9E9E9", "cterm": "231" }
 let s:dark01            = { "gui": "#484848", "cterm": "231" }
